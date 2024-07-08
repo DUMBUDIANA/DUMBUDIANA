@@ -1,11 +1,6 @@
 ### Hi there 👋 , I'm Diana Dumbu
 
 ### Skills/Languages
-Wordpress and HTML,CSS AND Javascript
+WordPress and HTML, CSS, Javascript, React, Python and cloud computing
 
-### I'm currently learning
-React, python and node.js to be a full stack developer.
-I am working on the react adding books and reviews project, using python as api
 
-### I'm available for
-Wordpress and HTML ,CSS and Javascript projects 
